@@ -1,0 +1,12 @@
+{
+  "name": "node-js-starter",
+  "version": "1.0.0",
+  "description": "A starting point for Node.js",
+  "main": "server.js",
+  "author": "salil",
+  "license": "MIT",
+  "scripts": {
+    "start": "npm run serve",
+    "serve": "node server.js"
+  }
+}
